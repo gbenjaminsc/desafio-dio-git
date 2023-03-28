@@ -1,0 +1,1 @@
+Bloco de notas com intuito de colocar algumas dicas e informações referente ao estudo de Git e Github.
